@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+body .diyw {}
+
+html body .diyw, html .diyw p, html .diyw table, html .diyw td
+{
+    font:normal 12px/140% Verdana, Geneva, sans-serif;
+    color:#666666;
+}
+
+html .diyw h1
+{
+    font:bold 16px/140% Helvetica, "Helvetica Neue", "Trebuchet MS", sans-serif;
+    color:#0d358f;
+
+}
+
+html .diyw h2
+{
+    font:bold 14px/140% Helvetica, "Helvetica Neue", "Trebuchet MS", sans-serif;
+    color:#666666;
+
+}
+
+/* Blog */
+
+.diyw a.trackbackUrl,
+.diyw a.trackbackUrl:link,
+.diyw a.trackbackUrl:visited,
+.diyw a.trackbackUrl:hover,
+.diyw a.trackbackUrl:active
+{
+    background:#EEEEEE none repeat scroll 0% 0%;
+    border:1px solid black;
+    color:#333333;
+    padding:2px;
+    text-decoration:none;
+}
+
+.diyw a:link,
+.diyw a:visited
+{
+    text-decoration: underline; /* fix */
+    color:#990000;
+}
+
+.diyw a:active,
+.diyw a:hover
+{
+    text-decoration:none; /* fix */
+    color: #990000;
+}
+
+html .diyw div.hr
+{
+    border-bottom-style:dotted;
+    border-bottom-width:1px; /* fix */
+    border-color: #CCCCCC;
+    height: 1px;
+}
+/*
+     FILE ARCHIVED ON 22:35:39 Feb 13, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:40:02 Jul 30, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.452
+  exclusion.robots: 0.026
+  exclusion.robots.policy: 0.017
+  esindex: 0.009
+  cdx.remote: 60.06
+  LoadShardBlock: 114.363 (3)
+  PetaboxLoader3.datanode: 90.972 (5)
+  PetaboxLoader3.resolve: 248.035 (3)
+  load_resource: 267.39 (2)
+*/

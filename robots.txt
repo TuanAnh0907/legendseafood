@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: http://legendseafood.net/c/
+Disallow: http://legendseafood.net/protected/
+Sitemap: http://legendseafood.net/sitemap.xml
